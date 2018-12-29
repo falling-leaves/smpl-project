@@ -12,6 +12,6 @@ Make sure to have `make` installed on the local machine.
 Create and checkout to a directory for cloning the application.
 
 ```
-git clone git://github.com/falling-leaves/mini-tasks.git
+git clone git://github.com/falling-leaves/smpl-project.git
 make && make install
 ```
