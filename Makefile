@@ -10,3 +10,6 @@ main.o: main.c
 
 clean:
 	rm -rf *.o ./.tasks
+
+install:
+	cp ./smpl /usr/local/bin/smpl
